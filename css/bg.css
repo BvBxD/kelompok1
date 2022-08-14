@@ -1,0 +1,18 @@
+.bg {
+    position: absolute;
+    width: 1445px;
+    height: 562px;
+
+    background: #ffffff;
+}
+
+.vector1 {
+    position: absolute;
+    height: 562px;
+    width: 505px;
+    left: -332px;
+    top: -268px;
+    border-radius: 0px;
+
+    background: #e5e338;
+}
