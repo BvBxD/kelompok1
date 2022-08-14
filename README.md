@@ -11,6 +11,6 @@ semua kami buat dari 0, dari background, navbar, dllnya (meski ada yang liat goo
 - Allah SWT
 - Kak Rafli karena dia saya dapat inspirasi pas bagian image dan text (bawah navbar)
 - Figma enak ngebuat desain 
-- W3school ngebantu bet dah setiap nyari sesuatu pasti ni web nongol
+- W3school & stack overflow ngebantu bet dah setiap nyari sesuatu pasti ni web nongol
 - Pinterest nyari inspirasi landing page
 - freepik, pinterest, dll buat gambar
