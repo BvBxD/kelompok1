@@ -1,15 +1,5 @@
 function addContent(params) {
     let container = document.getElementById("container");
-<<<<<<< HEAD
-    if (params == "contact") {
-        container.innerHTML = `        
-        <form action="">
-            EMAIL : <input type="text" /> <br />s
-            NAMA : <input type="text" /><br />
-            PESAN : <textarea name="" id="" cols="30" rows="10"></textarea>
-        </form>`;
-    } else if (params == "profile") {
-=======
     if (params == "History") {
         container.innerHTML = `        
         <div class="right">
@@ -31,38 +21,13 @@ function addContent(params) {
             <img src="assets/arkeolog.webp" alt="" width="500px" height="375px" />
         </div>`;
     } else if (params == "about") {
->>>>>>> 6e8dd41 (update js, navbar)
         container.innerHTML = `
             <h1>INI PROFILE</h1>
         `;
     } else if (params == "home") {
         container.innerHTML = `
         <div class="right">
-<<<<<<< HEAD
-                <h1>KELOMPOK 1 COYY</h1>
-                <br />
-                <h2 style="color:#4ec5c1;">
-                    Dikerjakan Oleh Orang-Orang <br />
-                    Yang Tidak Bisa Desain
-                </h2>
-                <br />
-                <p >
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummys text ever since the 1500s, when an unknown
-                    printer took a galley of types and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged. It was popularised in the 1960s with
-                    the release of Letraset sheets containing Lorem Ipsum
-                    passages,
-                </p>
-            </div>
 
-            <div class="left">
-                <img src="assets/image.png" alt="" width="500px" height="375px" />
-            </div>
-=======
             <h1>KELOMPOK 1 COYY</h1>
             <br />
             <h2 style="color: #4ec5c1">
@@ -90,8 +55,7 @@ function addContent(params) {
                 width="500px"
                 height="375px"
             />
-        </div>
->>>>>>> 6e8dd41 (update js, navbar)
+        </div>          
         `;
     }
 }
